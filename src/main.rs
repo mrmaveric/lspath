@@ -1,6 +1,6 @@
 use std::env;
 
-static VERSION: &str = "0.1.1";
+const VERSION: &str = "0.1.1";
 
 fn main() {
 	// Pointless command line arguements code
